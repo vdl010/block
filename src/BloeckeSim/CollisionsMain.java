@@ -11,6 +11,7 @@ public class CollisionsMain {
 
 	public static void main(String[] args) {
 
+
 		/*---------------------MainWindow aktivieren------------------------*/
 
 		MainWindow mw = new MainWindow();
